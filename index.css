@@ -1,0 +1,14 @@
+main {
+   width: 75vw;
+   max-width: 400px;
+}
+
+#text-input, #check-btn, #result, label, main, h1, form {
+   margin: 1em auto;
+}
+
+#text-input, #check-btn, h1 {
+   display: block;
+   text-align: center;
+   width: 80%;
+}
